@@ -1,5 +1,3 @@
-[![Circle CI](https://circleci.com/gh/sameersbn/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/sameersbn/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/ubuntu)
-
 # About
 
 Dockerfile to build a ubuntu:14.04 baseimage with a couple of extra packages.

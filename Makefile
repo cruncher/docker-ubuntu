@@ -1,7 +1,7 @@
 all: build
 
 build:
-	@docker build --tag=sameersbn/ubuntu:latest .
+	@docker build --tag=cruncher/ubuntu:latest .
 
 release: build
-	@docker build --tag=sameersbn/ubuntu:$(shell cat VERSION) .
+	@docker build --tag=cruncher/ubuntu:$(shell cat VERSION) .
